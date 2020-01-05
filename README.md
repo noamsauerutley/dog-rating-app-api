@@ -5,6 +5,11 @@
 <p>We <3 Dogs is a social media web app for viewing, liking, and rating cute dog content pulled from curated twitter API endpoints. </p>
 </blockquote>
 
+
+<hr></hr>
+<h1><a href="https://dog-rating-app-frontend.now.sh/">Check it out on Now </a></h1>
+<hr></hr>
+
 <p><strong>Built With:</strong></p>
 
 <ul>
